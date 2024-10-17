@@ -1,0 +1,73 @@
+body {
+  background-image: url("");
+  margin: 0;
+  font-family:fantasy, Helvetica, sans-serif;
+  
+}
+.topnav{
+  overflow: hidden;
+  background-color: #0f6eeb;
+}
+.topnav a{
+  float: left;
+  color: #fffafaff;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: snow;
+  font-size: 17px;
+}
+.topnav a:hover{
+  
+  color: black;
+}
+.topnav a.active{
+  background-color: #ffe066;
+  color: black;
+}
+.movie_head
+
+{
+
+font-size: 20px;
+
+padding: 6px 22px;
+
+border-radius: 10px;
+
+margin-bottom: 15px;
+
+width: 100%;
+
+display: inline-block;
+
+}
+
+.movie_head i
+
+{
+
+float: right;
+
+}
+
+.movie_text span
+
+{
+
+color: #ff7700;
+
+}
+h1{
+ font-size: 40px; 
+}
+#tder{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+  
+ 
+
